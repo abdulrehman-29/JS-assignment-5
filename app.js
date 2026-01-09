@@ -127,3 +127,4 @@ function q10() {
     }
     display.innerHTML = "<div class = 'highlight'>Multiples of 5: </div>" + number.join(", ")
 }
+// ================== ** ==================
